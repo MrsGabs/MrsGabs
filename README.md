@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python and back-end libraries.<br>Learned a bit o NODE.JS and Im interested in Firebase.<br>Fluent Portuguese and English (I know a bit of Spanish too).<br>Full-stack junior.<br><br>Fun fact: "Hello am 48 year man from somalia. <br>Sorry for my bed england. I selled my wife for <br>internet connection for play "conter stirk" and <br>i want to become the goodest player like you <br>I play with 400 ping on brazil server and i am Global elite 2."
+I'm currently learning Python and back-end libraries.<br>Learned a bit of NODE.JS and Im interested in Firebase.<br>Fluent Portuguese and English (I know a bit of Spanish too).<br>Full-stack junior.<br><br>Fun fact: "Hello am 48 year man from somalia. <br>Sorry for my bed england. I selled my wife for <br>internet connection for play "conter stirk" and <br>i want to become the goodest player like you <br>I play with 400 ping on brazil server and i am Global elite 2."
 
 
 ## 🌐 Socials:
