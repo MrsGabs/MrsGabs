@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python and back-end libraries.<br>Learned a bit of NODE.JS and Im interested in Firebase.<br>Fluent Portuguese and English (I know a bit of Spanish too).<br>Full-stack junior.<br><br>Fun fact: Top 500 Genji player and Gold 2 on Valorant.
+I'm currently learning Python and back-end libraries.<br>Learned a bit of NODE.JS and Im interested in Firebase and Python machine learning/AI libraries.<br>Fluent Portuguese and English (I know a bit of Spanish too).<br>Full-stack junior.<br><br>Fun fact: Top 500 Genji player and Gold 2 on Valorant.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/distant_gabdrule) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/distant_gabdrule) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/DistantFoill) 
